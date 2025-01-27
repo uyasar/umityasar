@@ -1,3 +1,2 @@
 User-agent: *
-Disallow:
-Sitemap: https://uyasar.github.io/umityasar/sitemap.xml
+Disallow: /
