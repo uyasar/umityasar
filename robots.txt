@@ -1,3 +1,5 @@
+User-agent: GPTBot
+Disallow: /
 User-agent: *
 Disallow:
 Sitemap: https://umityasar.com/sitemap.xml
