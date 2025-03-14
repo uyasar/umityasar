@@ -3,7 +3,7 @@
     <title>Ümit Yaşar</title>
     <link href="https://umityasar.com/feed.xml" rel="self" />
     <link href="https://umityasar.com" />
-    <updated>2025-03-14T21:07:03+03:00</updated>
+    <updated>2025-03-14T21:10:20+03:00</updated>
     <author>
         <name>Ü. Yaşar</name>
     </author>
@@ -236,16 +236,19 @@
         </author>
         <link href="https://umityasar.com/borsa-ve-yatirim-hakkinda-okudugum-5-kitaptan-ogrendiklerim/"/>
         <id>https://umityasar.com/borsa-ve-yatirim-hakkinda-okudugum-5-kitaptan-ogrendiklerim/</id>
+        <media:content url="https://umityasar.com/media/posts/156/borsa-kitaplari.jpeg" medium="image" />
             <category term="Kitaplar"/>
 
         <updated>2023-12-23T00:58:26+03:00</updated>
             <summary>
                 <![CDATA[
+                        <img src="https://umityasar.com/media/posts/156/borsa-kitaplari.jpeg" alt="" />
                     Borsaya ilgim yeni başladı, başlamadan önce bilmem gerekenleri öğreneyim diye borsa ile alakalı kitaplardan en meşhur olanları araştırıp aldım. Bunlar; Bir Borsa Spekülatörünün Anıları, Akıllı Yatırımcı, Warren Buffet Tarzı, Paranın Psikolojisi ve Zengin Baba Fakir Baba kitaplarıydı. Bir Borsa Spekülatörünün Anıları, 1900’lü yılların başında yaşamış bir borsa spekülatörünün maceralarını konu&hellip;
                 ]]>
             </summary>
         <content type="html">
             <![CDATA[
+                    <p><img src="https://umityasar.com/media/posts/156/borsa-kitaplari.jpeg" class="type:primaryImage" alt="" /></p>
                 <p>Borsaya ilgim yeni başladı, başlamadan önce bilmem gerekenleri öğreneyim diye borsa ile alakalı kitaplardan en meşhur olanları araştırıp aldım. Bunlar; Bir Borsa Spekülatörünün Anıları, Akıllı Yatırımcı, Warren Buffet Tarzı, Paranın Psikolojisi ve Zengin Baba Fakir Baba kitaplarıydı.</p>
 <p>Bir Borsa Spekülatörünün Anıları, 1900’lü yılların başında yaşamış bir borsa spekülatörünün maceralarını konu alıyor. Günümüz şartlarına uyarlanamasa da borsanın mantığını kavratacak en güzel kitaplardan bir tanesi ve önemli dersler barındırıyor.</p>
 <p>Akıllı Yatırımcı da Warren Buffet tarafından sürekli övülen ve akıllı bir yatırımcının neler yapması gerektiğini anlatan bir kitap. Kitapta geçen taktiklerin geçerliliği tartışılsa da öğretecek çok şeyi var.</p>
