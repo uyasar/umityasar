@@ -3,7 +3,7 @@
     <title>Ümit Yaşar</title>
     <link href="https://umityasar.com/feed.xml" rel="self" />
     <link href="https://umityasar.com" />
-    <updated>2025-03-14T20:51:34+03:00</updated>
+    <updated>2025-03-14T20:57:49+03:00</updated>
     <author>
         <name>Ü. Yaşar</name>
     </author>
@@ -133,18 +133,21 @@
         </author>
         <link href="https://umityasar.com/uzun-vadeli-yatirim-sikici-geliyorsa-bu-kitabi-okuyun-trend-takipcisi/"/>
         <id>https://umityasar.com/uzun-vadeli-yatirim-sikici-geliyorsa-bu-kitabi-okuyun-trend-takipcisi/</id>
+        <media:content url="https://umityasar.com/media/posts/158/trend-takipcisi.jpeg" medium="image" />
             <category term="Kitaplar"/>
 
         <updated>2024-01-13T19:14:08+03:00</updated>
             <summary>
                 <![CDATA[
+                        <img src="https://umityasar.com/media/posts/158/trend-takipcisi.jpeg" alt="" />
                     Yaklaşık bir yıldır borsada işlem yapıyorum. Bu alana yeni girenler için ilk tavsiye edilenler uzun vadeli düşünülmesi ve sabırlı olunması. Borsa hakkında okuduğum kitapların çoğunluğu da bu fikirde. Elbette uzun vadeli yatırımlar kazançlı olabiliyor ama bunun hiç bir garantisi yok. Yıllarca bekleyip enflasyona yenilebilir hatta elinizdeki paradan da olabilirsiniz. Borsanın&hellip;
                 ]]>
             </summary>
         <content type="html">
             <![CDATA[
-                <p><!--kg-card-begin: html-->
-<p>Yaklaşık bir yıldır borsada işlem yapıyorum. Bu alana yeni girenler için ilk tavsiye edilenler uzun vadeli düşünülmesi ve sabırlı olunması. <a href="https://umityasar.com/borsa-ve-yatirim-hakkinda-okudugum-5-kitaptan-ogrendiklerim/" data-type="post" data-id="10169">Borsa hakkında okuduğum kitapların</a> çoğunluğu da bu fikirde. </p>
+                    <p><img src="https://umityasar.com/media/posts/158/trend-takipcisi.jpeg" class="type:primaryImage" alt="" /></p>
+                <p><!--kg-card-begin: html--></p>
+<p>Yaklaşık bir yıldır borsada işlem yapıyorum. Bu alana yeni girenler için ilk tavsiye edilenler uzun vadeli düşünülmesi ve sabırlı olunması. <a href="https://umityasar.com/borsa-ve-yatirim-hakkinda-okudugum-5-kitaptan-ogrendiklerim/" data-type="post" data-id="10169">Borsa hakkında okuduğum kitapların</a> çoğunluğu da bu fikirde.</p>
 <p>Elbette uzun vadeli yatırımlar kazançlı olabiliyor ama bunun hiç bir garantisi yok. Yıllarca bekleyip enflasyona yenilebilir hatta elinizdeki paradan da olabilirsiniz. Borsanın temel kanunu, sıradaki trendin ne olacağınının asla tahmin edilememesi. En uzman kişiler bile bu konuda yetersiz.</p>
 <h3 class="wp-block-heading">Peki Trend Takipçisi kitabı bu konuda ne tavsiye ediyor?</h3>
 <p>Hiç bir trendi tahmin edemeyeceğimize göre var olan trende ayak uydurmaya çalışmak. Başarısız olduğunda ise önceden belirlediğin zararı kabullenerek çıkıp yeni pozisyonlar almak.</p>
@@ -153,7 +156,7 @@
 <h3 class="wp-block-heading">Peki trendin değişip değişmediğini nasıl bileceğiz?</h3>
 <p>Kitap boyunca benim de aklıma takılan en büyük soru buydu? Hiç bir tahminde bulunmayacaksak, trendin yönünü nasıl bileceğiz?</p>
 <p>Cevap yine oldukça basit. Eğer bir hisseyi uzun zaman takip ettiniz, sürekli düştü ve bir noktadan sonra yükselmeye başladı. Bunu değişen trend olarak varsayıp alımımızı yapıyoruz. Yanılma ihtimaline karşı önceden belirlediğimiz seviyeye zarar durdur işlemi yapıyoruz.</p>
-<p>Bunu daha teknik hale getirmek için kullanılabilecek bazı göstergeler de var. Mesela kitabın ekler bölümünde verdiği stratejilerden bir tanesi &#8220;Basit Hareketli Ortalama (SMA)&#8221; göstergesi. 50 günlük SMA ile 100 günlük SMA çizgileri karşılaştırılır, bu iki çizginin kesiştiği noktalar trendin yön değiştirdiği nokta olarak kabul edilip kısa ya da uzun pozisyon alınır.</p>
+<p>Bunu daha teknik hale getirmek için kullanılabilecek bazı göstergeler de var. Mesela kitabın ekler bölümünde verdiği stratejilerden bir tanesi “Basit Hareketli Ortalama (SMA)” göstergesi. 50 günlük SMA ile 100 günlük SMA çizgileri karşılaştırılır, bu iki çizginin kesiştiği noktalar trendin yön değiştirdiği nokta olarak kabul edilip kısa ya da uzun pozisyon alınır.</p>
 <p>Yazara göre bu şekilde trendleri yakalama olasılığımız %40. Bu demek oluyor ki yüzde 60 kaybetme olasılığımız var, değil mi?</p>
 <p>Tam olarak öyle değil. Her zarar ettiğimiz işlemi en kısa sürede durduruyoruz. Kar eden işlemlere ise düşüşe geçene kadar dokunmuyoruz. Böylece o yüzde 60 lık işlemin her birinden sadece diyelim ki yüzde 1 zarar ederken, yüzde 40 lık işlemlerden kar etme sınırımız bulunmuyor. Bir işlemden bile ,trendi yakalamışsak, yüzde yüz, yüzde iki yüz kar etme olasılığımız oluyor. Böyle olunca da toplamda kar etmiş oluyoruz.</p>
 <p>Özetleyecek olursak;</p>
@@ -168,7 +171,6 @@
 <p>İlgili diğer kitaplar: <a href="https://app.hb.biz/6tszMozXvvO0">https://app.hb.biz/6tszMozXvvO0</a></p>
 <p>(Söylemeden edemeyeceğim, geçen ay 180 liraya aldığım kitap nasıl 900 lira olabilir?)</p>
 <p><!--kg-card-end: html--></p>
-
             ]]>
         </content>
     </entry>
