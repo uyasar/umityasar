@@ -3,7 +3,7 @@
     <title>Ümit Yaşar</title>
     <link href="https://umityasar.com/feed.xml" rel="self" />
     <link href="https://umityasar.com" />
-    <updated>2025-09-17T19:46:05+03:00</updated>
+    <updated>2025-09-17T19:47:13+03:00</updated>
     <author>
         <name>Ü. Yaşar</name>
     </author>
@@ -17,6 +17,7 @@
         <link href="https://umityasar.com/fatih-akinin-yasamin-kiyisinda-filmi-uezerine/"/>
         <id>https://umityasar.com/fatih-akinin-yasamin-kiyisinda-filmi-uezerine/</id>
         <media:content url="https://umityasar.com/media/posts/168/yasamin-kiyisinda.jpg" medium="image" />
+            <category term="Filmler"/>
 
         <updated>2025-04-30T10:23:18+03:00</updated>
             <summary>
